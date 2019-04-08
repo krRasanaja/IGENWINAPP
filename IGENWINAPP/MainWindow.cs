@@ -92,8 +92,7 @@ namespace IGENWINAPP
                         frmShow.MdiParent = this;
 
                         frmShow.WindowState = FormWindowState.Maximized;
-                        frmShow.MinimizeBox = false;
-                        frmShow.MaximizeBox = false;
+                        
 
                         frmShow.Show();
                     }

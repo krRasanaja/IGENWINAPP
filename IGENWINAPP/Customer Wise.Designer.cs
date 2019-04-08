@@ -50,6 +50,8 @@
             this.Controls.Add(this.crystalReportViewer1);
             this.Cursor = System.Windows.Forms.Cursors.Default;
             this.ForeColor = System.Drawing.SystemColors.ControlLight;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "CustomerWise";
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
